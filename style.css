@@ -31,13 +31,13 @@ a{
 #search{
     width: 400px;
     margin-top: 30px;
-    border: solid 4px #FF5722;
+    border: solid 4px black;
     line-height: 25px;
 }
 #search-button{
-    border: solid 5px #FF5722;
+    border: solid 5px black;
     line-height: 25px;
-    background: #FF5722;
+    background: black;
     color: white;
     font-size: 15px;
     font-weight: 600;
@@ -104,7 +104,7 @@ a{
 }
 .thumbnail{
     width: 200px;
-    height: 320px;
+    height: 200px;
     display: block;
     margin: 0 auto;
 }
@@ -116,7 +116,7 @@ a{
 .one-story h4{
     text-align: center;
     margin: 10px 0 0 0;
-    color: red;
+    color: black;
 }
 .one-story h4:hover{
     color: black;
